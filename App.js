@@ -12,6 +12,7 @@ export default function App() {
     <View style={{
       width: '100%'
     }} >
+      
       <Text style={{
         fontSize: 34,
         fontWeight: 'bold'
